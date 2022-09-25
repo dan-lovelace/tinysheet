@@ -1,0 +1,13 @@
+{
+  "name": "TinySheet",
+  "version": "0.0.0",
+  "description": "Mini spreadsheet",
+  "homepage_url": "https://github.com/dan-lovelace/tinysheet",
+  "manifest_version": 3,
+  "icons": {
+    "128": "logo_128.png"
+  },
+  "action": {
+    "default_popup": "index.html"
+  }
+}
